@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="separator"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=30&duration=2600&pause=900&color=D2A8FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Hola+soy+zacariadm+mapache.;Desarrollador+Junior+enfocado+en+mejorar.;Gracias+por+ver+mi+perfil+, sigueme :)." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=30&duration=2600&pause=900&color=D2A8FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Hola+soy+zacariadm+mapache.;Desarrollador+Junior+enfocado+en+mejorar.;Gracias+por+ver+mi+perfil +,+sigueme+:) ." alt="Typing introduction" />
 
   <br/>
   <br/>
