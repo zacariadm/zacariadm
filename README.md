@@ -11,15 +11,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="Separador"/>
 
-## Hero
 
-<table border="1" bordercolor="#8957E5" cellspacing="0" cellpadding="10">
+
+<img src="img/hero-block.svg" width="100%" alt="Hero"/>
+
+<table>
   <tr>
     <td width="42%" valign="top">
       <img src="img/mapache_saludando.png" alt="Mapache saludando" width="100%"/>
     </td>
     <td width="58%" valign="top">
-      <h1>Mapache — Software Engineer</h1>
+      <h1>Zacariadm — Software Engineer</h1>
       <details open>
         <summary>One man's trash is a raccoon's treasure.</summary>
         <p>La basura de un hombre es el tesoro de un mapache.</p>
@@ -40,9 +42,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="Separador"/>
 
-## Skills
 
-<table border="1" bordercolor="#8957E5" cellspacing="0" cellpadding="10">
+
+<img src="img/skills-block.svg" width="100%" alt="Skills"/>
+
+<table>
   <tr>
     <td valign="top" width="50%">
       <h3>Languages</h3>
@@ -128,9 +132,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="Separador"/>
 
-## GitHub Statistics
 
-<table border="1" bordercolor="#8957E5" cellspacing="0" cellpadding="10">
+<img src="img/stats-block.svg" width="100%" alt="Mi trabajo"/>
+
+<table>
   <tr>
     <td valign="top" width="50%" align="center">
       <details open>
@@ -152,9 +157,11 @@
   </tr>
 </table>
 
-## Current Focus
 
-<table border="1" bordercolor="#8957E5" cellspacing="0" cellpadding="10">
+
+<img src="img/focus-block.svg" width="100%" alt="Objetivos"/>
+
+<table>
   <tr>
     <td>
       <ul>
@@ -174,7 +181,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="Separador"/>
 
-## Terminal
+<img src="img/terminal-block.svg" width="100%" alt="Terminal"/>
 
 ```zsh
 $ whoami
@@ -199,9 +206,11 @@ $ deploy
 ✔ shipped with confidence
 ```
 
-## Contact
 
-<table border="1" bordercolor="#8957E5" cellspacing="0" cellpadding="10">
+
+<img src="img/contact-block.svg" width="100%" alt="Contact"/>
+
+<table>
   <tr>
     <td align="center">
       <a href="https://github.com/zacariadm">
@@ -210,7 +219,7 @@ $ deploy
       <a href="https://www.linkedin.com">
         <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
       </a>
-      <a href="mailto:hello@domain.com">
+      <a href="zacariadm@gmail.com">
         <img src="https://img.shields.io/badge/Email-1f2430?style=for-the-badge&logo=gmail&logoColor=D2A8FF" alt="Email"/>
       </a>
     </td>
