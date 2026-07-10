@@ -103,18 +103,34 @@ Soy Junior en desarrollador de software con formación en DAM y experiencia en d
 <!-- GitHub metrics -->
 ## GitHub Statistics
 
+
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zacariadm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2A8FF&icon_color=8957E5&text_color=C9D1D9" alt="GitHub stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacariadm&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=C9D1D9" alt="Top languages"/>
+  <details open>
+    <summary>Full year calendar</summary>
+    <img src="https://github.com/zacariadm/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full year calendar" />
+  </details>
+  <br>
+  <details>
+    <summary>Half year calendar</summary>
+    <img src="https://github.com/zacariadm/metrics/blob/examples/metrics.plugin.isocalendar.svg" alt="Half year calendar" />
+  </details>
 </div>
 
+<br>
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zacariadm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2A8FF&icon_color=8957E5&text_color=C9D1D9" alt="GitHub stats"/>
+
+  <br>
+
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacariadm&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=C9D1D9" alt="Top languages"/>
+</div>
+<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zacariadm&theme=transparent&hide_border=true&background=0D1117&ring=8957E5&fire=D2A8FF&currStreakLabel=D2A8FF" alt="GitHub streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zacariadm&bg_color=0D1117&color=C9D1D9&line=8957E5&point=D2A8FF&area=true&hide_border=true" alt="Activity graph"/>
-</div>
+
 
 ---
 
@@ -186,31 +202,6 @@ $ deploy
 ✔ shipped with confidence
 ```
 
----
-
-<!-- Fun section -->
-## Raccoon Notes
-
-- Best debugging posture: stillness, then precision.
-- Clean architecture beats heroic patching.
-- Night-time focus mode increases problem-solving throughput.
-- Every successful deployment deserves a quiet coffee.
-
-<details>
-<summary><strong>Cinematic image prompt set (consistent raccoon identity)</strong></summary>
-
-1. Hyper-realistic portrait photo of the same adult raccoon software engineer at a premium desk setup, dark studio, purple ambient rim light, 50mm lens, shallow depth of field, ultra-detailed fur, cinematic contrast, realistic photography.
-2. The same raccoon studying multiple monitors with code and architecture diagrams, moody low-key lighting, subtle volumetric haze, premium product photography composition, realistic eyes and fur texture.
-3. The same raccoon holding coffee beside a mechanical keyboard at 2AM, purple practical lights, soft shadow falloff, high dynamic range, professional wildlife portrait style.
-4. The same raccoon debugging in a dark workstation, reflections from terminal windows on fur, realistic claws on desk, cinematic close-up, no illustration, no CGI.
-5. The same raccoon reviewing pull requests with focused expression, elegant desk minimalism, Apple-like composition, ultra-real photo detail, consistent facial markings.
-6. The same raccoon planning architecture on glass board near monitors, purple accent lighting, premium editorial style, realistic photographic lighting and anatomy.
-7. The same raccoon celebrating a successful deployment with subtle motion and confident posture, dark background, controlled studio key light, realistic photography.
-
-</details>
-
----
-
 <!-- Contact -->
 ## Contact
 
@@ -219,7 +210,10 @@ $ deploy
   <a href="https://www.linkedin.com">LinkedIn</a> ·
   <a href="mailto:hello@domain.com">Email</a>
 </div>
+<br>
 
 <div align="center">
-  <sub>Designed for GitHub Dark · #0D1117 · #8957E5 · #D2A8FF</sub>
+ 
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRzem44dG9nMnJ2ZmE1ODBpY2QycG14d2UxN3I4YmZ6YzZwc3BveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LkQgk10kw3w73UpcTb/giphy.gif" width="500">
+
 </div>
