@@ -205,6 +205,6 @@ $ deploy
 
 <div align="center">
  
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZzRzem44dG9nMnJ2ZmE1ODBpY2QycG14d2UxN3I4YmZ6YzZwc3BveSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LkQgk10kw3w73UpcTb/giphy.gif" width="500">
+  <img src="GIf/mapache_despedida_gif.gif" width="500" alt="Mapache despidiéndose">
 
 </div>
