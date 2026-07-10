@@ -31,12 +31,12 @@
 # Mapache — Software Engineer
 
 <div align="center">
-  <details style="cursor: pointer; list-style: none;">
-    <summary style="display: list-item; list-style: none; font-size: 20px; font-weight: bold; color: #7f15ef; outline: none; user-select: none;">
+  <details style="margin: 0 auto; max-width: 720px;">
+    <summary style="font-size: 20px; font-weight: bold; color: #7f15ef; outline: none; user-select: none; text-align: center; cursor: pointer;">
       One man's trash is a raccoon's treasure. 
     </summary>
-    <p style="margin-top: 12px; margin-bottom: 0;">
-      <i style="color: ; font-size: 16px;">La basura de un hombre es el tesoro de un mapache.</i>
+    <p style="margin: 12px 0 0; color: #C9D1D9; font-size: 16px; line-height: 1.5;">
+      La basura de un hombre es el tesoro de un mapache.
     </p>
   </details>
 </div>
