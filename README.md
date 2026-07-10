@@ -3,14 +3,16 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" alt="separator"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=30&duration=2600&pause=900&color=D2A8FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Raccoon-powered+engineering.;Designing+clean+systems+with+cinematic+focus.;Shipping+products+that+feel+inevitable." alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=30&duration=2600&pause=900&color=D2A8FF&center=true&vCenter=true&multiline=true&repeat=true&width=980&height=120&lines=Hola+soy+zacariadm+mapache.;Desarrollador+Junior+enfocado+en+mejorar.;Gracias+por+ver+mi+perfil+, sigueme :)." alt="Typing introduction" />
 
   <br/>
   <br/>
 
   <img src="https://img.shields.io/badge/OPEN%20TO-Collaboration-1f2430?style=for-the-badge&logo=github&logoColor=D2A8FF&labelColor=0D1117&color=2D1B4E" alt="Open to collaboration"/>
+
   <img src="https://img.shields.io/badge/FOCUS-Architecture%20%26%20Product-1f2430?style=for-the-badge&logo=apple&logoColor=D2A8FF&labelColor=0D1117&color=3D246A" alt="Focus"/>
-  <img src="https://img.shields.io/badge/STATUS-Building-1f2430?style=for-the-badge&logo=vercel&logoColor=D2A8FF&labelColor=0D1117&color=4A2F80" alt="Status"/>
+
+  <img src="https://img.shields.io/badge/STATUS-On Vacation-1f2430?style=for-the-badge&logo=vercel&logoColor=D2A8FF&labelColor=0D1117&color=4A2F80" alt="Status"/>
 </div>
 
 ---
@@ -26,20 +28,27 @@
 
 <div align="center">
 
-# Zacariad M. — Software Engineer
+# Mapache — Software Engineer
 
-I build polished software products with clean architecture, deliberate UX, and production-grade reliability.
+<div align="center">
+  <details style="cursor: pointer; list-style: none;">
+    <summary style="display: list-item; list-style: none; font-size: 20px; font-weight: bold; color: #7f15ef; outline: none; user-select: none;">
+      One man's trash is a raccoon's treasure. 
+    </summary>
+    <p style="margin-top: 12px; margin-bottom: 0;">
+      <i style="color: ; font-size: 16px;">La basura de un hombre es el tesoro de un mapache.</i>
+    </p>
+  </details>
+</div>
+
 
 </div>
 
 ---
 
-<!-- About -->
 ## About Me
 
-I engineer systems that stay elegant under pressure.  
-I like turning complex problems into simple interfaces, stable backends, and fast feedback loops.  
-I care deeply about architecture, execution quality, and continuous learning.
+Soy Junior en desarrollador de software con formación en DAM y experiencia en desarrollo web . He trabajado en aplicaciones con JavaScript y Java. Estoy interesado en continuar desarrollándome en varias tecnologías y desarrollo backend.
 
 ---
 
