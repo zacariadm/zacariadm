@@ -117,15 +117,6 @@ Soy Junior en desarrollador de software con formación en DAM y experiencia en d
 </div>
 
 <br>
-
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=zacariadm&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D2A8FF&icon_color=8957E5&text_color=C9D1D9" alt="GitHub stats"/>
-
-  <br>
-
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zacariadm&layout=compact&hide_border=true&bg_color=0D1117&title_color=D2A8FF&text_color=C9D1D9" alt="Top languages"/>
-</div>
-<br>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zacariadm&theme=transparent&hide_border=true&background=0D1117&ring=8957E5&fire=D2A8FF&currStreakLabel=D2A8FF" alt="GitHub streak"/>
 </div>
