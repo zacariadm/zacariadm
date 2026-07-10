@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="#featured-projects"><img src="https://img.shields.io/badge/View%20Projects-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="View Projects" /></a>
-  <a href="#terminal"><img src="https://img.shields.io/badge/Open%20Terminal-3B1E63?style=for-the-badge&logo=gnubash&logoColor=D2A8FF" alt="Open Terminal" /></a>
+  <a href="#terminal"><img src="https://img.shields.io/badge/Open%20Terminal-3B1E63?style=for-the-badge&logo=github&logoColor=D2A8FF" alt="Open Terminal" /></a>
   <a href="#contact"><img src="https://img.shields.io/badge/Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=D2A8FF" alt="Connect" /></a>
 </p>
 
@@ -79,9 +79,7 @@ I am continuously learning, refining, and raising the bar on what "clean" and "p
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zacariadm&bg_color=0D1117&color=D2A8FF&line=8957E5&point=C9D1D9&area=true&hide_border=true" alt="Activity graph" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/zacariadm/zacariadm/output/snake-dark.svg" alt="Contribution graph animation" />
-</p>
+> Contribution snake animation disabled until the `output` branch artifact is available again.
 
 ---
 
