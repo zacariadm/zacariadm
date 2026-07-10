@@ -40,20 +40,70 @@ I am continuously learning, refining, and raising the bar on what "clean" and "p
 
 <table>
   <tr>
-    <td><strong>Languages</strong><br/>TypeScript · JavaScript · Python · Go · SQL</td>
-    <td><strong>Backend</strong><br/>Node.js · Express · FastAPI · REST · GraphQL</td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Languages</span></strong><br/>
+      <img src="./assets/icons/skills/typescript.svg" width="14" alt="TypeScript icon" /> TypeScript ·
+      <img src="./assets/icons/skills/javascript.svg" width="14" alt="JavaScript icon" /> JavaScript ·
+      <img src="./assets/icons/skills/python.svg" width="14" alt="Python icon" /> Python ·
+      <img src="./assets/icons/skills/go.svg" width="14" alt="Go icon" /> Go ·
+      <img src="./assets/icons/skills/sql.svg" width="14" alt="SQL icon" /> SQL
+    </td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Backend</span></strong><br/>
+      <img src="./assets/icons/skills/nodejs.svg" width="14" alt="Node.js icon" /> Node.js ·
+      <img src="./assets/icons/skills/express.svg" width="14" alt="Express icon" /> Express ·
+      <img src="./assets/icons/skills/fastapi.svg" width="14" alt="FastAPI icon" /> FastAPI ·
+      <img src="./assets/icons/skills/rest.svg" width="14" alt="REST icon" /> REST ·
+      <img src="./assets/icons/skills/graphql.svg" width="14" alt="GraphQL icon" /> GraphQL
+    </td>
   </tr>
   <tr>
-    <td><strong>Frontend</strong><br/>React · Next.js · Tailwind · Accessibility-first UI</td>
-    <td><strong>Cloud</strong><br/>AWS · GCP · Vercel · Serverless</td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Frontend</span></strong><br/>
+      <img src="./assets/icons/skills/react.svg" width="14" alt="React icon" /> React ·
+      <img src="./assets/icons/skills/nextjs.svg" width="14" alt="Next.js icon" /> Next.js ·
+      <img src="./assets/icons/skills/tailwind.svg" width="14" alt="Tailwind icon" /> Tailwind ·
+      <img src="./assets/icons/skills/accessibility.svg" width="14" alt="Accessibility icon" /> Accessibility-first UI
+    </td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Cloud</span></strong><br/>
+      <img src="./assets/icons/skills/aws.svg" width="14" alt="AWS icon" /> AWS ·
+      <img src="./assets/icons/skills/gcp.svg" width="14" alt="GCP icon" /> GCP ·
+      <img src="./assets/icons/skills/vercel.svg" width="14" alt="Vercel icon" /> Vercel ·
+      <img src="./assets/icons/skills/serverless.svg" width="14" alt="Serverless icon" /> Serverless
+    </td>
   </tr>
   <tr>
-    <td><strong>DevOps</strong><br/>Docker · GitHub Actions · CI/CD · Observability</td>
-    <td><strong>Databases</strong><br/>PostgreSQL · MySQL · Redis · MongoDB</td>
+    <td>
+      <strong><span style="color:#D2A8FF;">DevOps</span></strong><br/>
+      <img src="./assets/icons/skills/docker.svg" width="14" alt="Docker icon" /> Docker ·
+      <img src="./assets/icons/skills/github-actions.svg" width="14" alt="GitHub Actions icon" /> GitHub Actions ·
+      <img src="./assets/icons/skills/cicd.svg" width="14" alt="CI/CD icon" /> CI/CD ·
+      <img src="./assets/icons/skills/observability.svg" width="14" alt="Observability icon" /> Observability
+    </td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Databases</span></strong><br/>
+      <img src="./assets/icons/skills/postgresql.svg" width="14" alt="PostgreSQL icon" /> PostgreSQL ·
+      <img src="./assets/icons/skills/mysql.svg" width="14" alt="MySQL icon" /> MySQL ·
+      <img src="./assets/icons/skills/redis.svg" width="14" alt="Redis icon" /> Redis ·
+      <img src="./assets/icons/skills/mongodb.svg" width="14" alt="MongoDB icon" /> MongoDB
+    </td>
   </tr>
   <tr>
-    <td><strong>AI</strong><br/>LLM APIs · Prompt systems · RAG patterns</td>
-    <td><strong>Tools</strong><br/>Git · Linux · Postman · Figma · VS Code</td>
+    <td>
+      <strong><span style="color:#D2A8FF;">AI</span></strong><br/>
+      <img src="./assets/icons/skills/llm.svg" width="14" alt="LLM APIs icon" /> LLM APIs ·
+      <img src="./assets/icons/skills/prompt.svg" width="14" alt="Prompt systems icon" /> Prompt systems ·
+      <img src="./assets/icons/skills/rag.svg" width="14" alt="RAG patterns icon" /> RAG patterns
+    </td>
+    <td>
+      <strong><span style="color:#D2A8FF;">Tools</span></strong><br/>
+      <img src="./assets/icons/skills/git.svg" width="14" alt="Git icon" /> Git ·
+      <img src="./assets/icons/skills/linux.svg" width="14" alt="Linux icon" /> Linux ·
+      <img src="./assets/icons/skills/postman.svg" width="14" alt="Postman icon" /> Postman ·
+      <img src="./assets/icons/skills/figma.svg" width="14" alt="Figma icon" /> Figma ·
+      <img src="./assets/icons/skills/vscode.svg" width="14" alt="VS Code icon" /> VS Code
+    </td>
   </tr>
 </table>
 
