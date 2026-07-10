@@ -21,7 +21,7 @@
 <table width="100%">
   <tr>
     <td>
-      <img src="https://placehold.co/1600x700/0D1117/D2A8FF?text=Hyper-realistic+raccoon+portrait+in+purple+cinematic+lighting" alt="Cinematic raccoon portrait"/>
+      <img src="img/mapache_saludando.png" alt="Cinematic raccoon portrait"/>
     </td>
   </tr>
 </table>
