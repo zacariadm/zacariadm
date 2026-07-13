@@ -140,7 +140,7 @@
     <td valign="top" width="50%" align="center">
       <details open>
         <summary>Full year calendar</summary>
-        <img src="https://github.com/zacariadm/metrics/blob/examples/metrics.plugin.isocalendar.fullyear.svg" alt="Full year calendar"/>
+        <img src="![](https://raw.githubusercontent.com/zacariadm/zacariadm/main/metrics.plugin.isocalendar.fullyear.svg)"/>
       </details>
     </td>
     <td valign="top" width="50%" align="center">
